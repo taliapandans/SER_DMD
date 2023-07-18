@@ -1,0 +1,24 @@
+2023-07-17 21:29:12,762 - MMSA [INFO] - train samples: (16326,)
+2023-07-17 21:29:36,109 - MMSA [INFO] - valid samples: (1871,)
+2023-07-17 21:29:57,766 - MMSA [INFO] - test samples: (4659,)
+2023-07-17 21:37:52,738 - MMSA [INFO] - >> Epoch: 1 TRAIN-(dmd) [1/1/1] >> total_loss: 14.0062  Acc_2: 0.7755  F1_score: 0.7659  Acc_7: 0.4564  MAE: 0.7120 
+2023-07-17 21:38:05,314 - MMSA [INFO] - VAL-(dmd) >>  Acc_2: 0.8324  F1_score: 0.8337  Acc_7: 0.5152  MAE: 0.5548  Loss: 0.5549 
+2023-07-17 21:38:35,475 - MMSA [INFO] - TEST-(dmd) >>  Acc_2: 0.8476  F1_score: 0.8483  Acc_7: 0.4911  MAE: 0.5676  Loss: 0.5686 
+2023-07-17 21:45:46,144 - MMSA [INFO] - >> Epoch: 2 TRAIN-(dmd) [1/2/1] >> total_loss: 6.7984  Acc_2: 0.8785  F1_score: 0.8782  Acc_7: 0.5521  MAE: 0.5110 
+2023-07-17 21:45:58,816 - MMSA [INFO] - VAL-(dmd) >>  Acc_2: 0.8387  F1_score: 0.8409  Acc_7: 0.5297  MAE: 0.5377  Loss: 0.5376 
+2023-07-17 21:46:29,821 - MMSA [INFO] - TEST-(dmd) >>  Acc_2: 0.8376  F1_score: 0.8397  Acc_7: 0.5194  MAE: 0.5633  Loss: 0.5625 
+2023-07-17 22:50:48,146 - MMSA [INFO] - train samples: (16326,)
+2023-07-17 22:51:09,529 - MMSA [INFO] - valid samples: (1871,)
+2023-07-17 22:51:32,529 - MMSA [INFO] - test samples: (4659,)
+2023-07-17 22:54:27,953 - MMSA [INFO] - train samples: (16326,)
+2023-07-17 22:54:48,179 - MMSA [INFO] - valid samples: (1871,)
+2023-07-17 22:55:08,650 - MMSA [INFO] - test samples: (4659,)
+2023-07-17 22:57:29,134 - MMSA [INFO] - train samples: (16326,)
+2023-07-17 22:57:50,865 - MMSA [INFO] - valid samples: (1871,)
+2023-07-17 22:58:12,395 - MMSA [INFO] - test samples: (4659,)
+2023-07-18 11:13:00,099 - MMSA [INFO] - train samples: (16326,)
+2023-07-18 11:13:04,954 - MMSA [INFO] - valid samples: (1871,)
+2023-07-18 11:13:09,138 - MMSA [INFO] - test samples: (4659,)
+2023-07-18 11:22:30,263 - MMSA [INFO] - train samples: (16326,)
+2023-07-18 11:22:35,783 - MMSA [INFO] - valid samples: (1871,)
+2023-07-18 11:22:40,517 - MMSA [INFO] - test samples: (4659,)
