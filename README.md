@@ -12,9 +12,9 @@ Before testing the model we set the path of trained model in run.py (line 174). 
 
 We run the codes on google colab, implemented under the .ipynb file `Unimse_Submission`. 
 
-## Current result:
+### Current result:
 - `Acc_2: 0.8430  F1_score: 0.8437  Acc_7: 0.4548  MAE: 0.7334  Loss: 0.7334`
 
-## Goals:
+### Goals:
 - Create IEMOCAP or EMODB datasets and train these datasets
 - Fine tune the model
